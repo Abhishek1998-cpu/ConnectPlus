@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573234530019",
+    "project_id": "connectplus-c89f9",
+    "storage_bucket": "connectplus-c89f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573234530019:android:8b033f697a27d507da67d6",
+        "android_client_info": {
+          "package_name": "com.connectplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573234530019-542jpcu3u0jmrevhauhei6ebrha6055m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.connectplus",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "573234530019-p9tae6opj1n99ivb09hpcft46hetmsjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD848I4WSsri7EvsM7YvKjDBw3AQCd4i6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573234530019-p9tae6opj1n99ivb09hpcft46hetmsjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
